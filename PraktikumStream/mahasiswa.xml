@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Mahasiswa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NIM>24131310056</NIM>
+  <Nama>Iqra Tri Karunia</Nama>
+  <Jurusan>Teknologi Informasi</Jurusan>
+  <MataKuliah>
+    <string>Pemrograman Jaringan</string>
+    <string>Internet of Things</string>
+    <string>Integrasi Sistem</string>
+  </MataKuliah>
+</Mahasiswa>
